@@ -1,0 +1,23 @@
+.navbarStyle {
+    background-color: #21325E;
+    color: #FFFFFF;
+}
+
+.brandStyle {
+    font-style: oblique;
+    font-size: 1.5rem;
+    color: #F1D00A;
+}
+
+.linkStyle {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.linkStyle:hover {
+    color: #F1D00A;
+}
+
+.linkStyle:active {
+    transform: scale(0.9);
+}
